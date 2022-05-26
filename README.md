@@ -13,6 +13,8 @@ Textbook: http://composingprograms.com/pages/11-getting-started.html
 ## Lab  
 1. Lab00: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab00/  
 2022/5/13  
+2. Lab01: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab01/  
+2022/5/26
 
 ## HW  
 1. HW01: https://inst.eecs.berkeley.edu/~cs61a/fa20/hw/hw01/  
