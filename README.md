@@ -8,6 +8,7 @@ Textbook: http://composingprograms.com/pages/11-getting-started.html
 2. Lecture2: https://www.youtube.com/watch?v=0kQKzc2yQQs&list=PL6BsET-8jgYUOR-QB-3KBQBgnQMGfGPb4&ab_channel=JohnDeNero  
 2022/5/20  
 3. Lecture3: https://www.youtube.com/watch?v=T_nf9Uxai8w&list=PL6BsET-8jgYXytPK09lJ5y9iUqZ445lCX&ab_channel=JohnDeNero  
+2022/5/26
 
 ## Lab  
 1. Lab00: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab00/  
