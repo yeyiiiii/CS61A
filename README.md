@@ -14,6 +14,7 @@ Textbook: http://composingprograms.com/pages/11-getting-started.html
 1. Lab00: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab00/  
 2022/5/13  
 2. Lab01: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab01/  
+   Debugging: https://inst.eecs.berkeley.edu/~cs61a/fa20/articles/debugging.html  
 2022/5/26
 
 ## HW  
