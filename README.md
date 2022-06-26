@@ -1,6 +1,7 @@
 # CS61A
 Fall 2020: https://inst.eecs.berkeley.edu/~cs61a/fa20/  
 Textbook: http://composingprograms.com/pages/11-getting-started.html  
+Online Python Tutor: https://pythontutor.com/composingprograms.html#mode=edit  
 
 ## Lecture  
 1. Lecture1: https://www.youtube.com/watch?v=CoHCUimLmdM&ab_channel=JohnDeNero  
@@ -15,7 +16,7 @@ Textbook: http://composingprograms.com/pages/11-getting-started.html
 2022/5/13  
 2. Lab01: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab01/  
    Debugging: https://inst.eecs.berkeley.edu/~cs61a/fa20/articles/debugging.html  
-2022/5/29
+2022/6/26
 
 ## HW  
 1. HW01: https://inst.eecs.berkeley.edu/~cs61a/fa20/hw/hw01/  
