@@ -63,3 +63,15 @@ def double_eights(n):
     False
     """
     "*** YOUR CODE HERE ***"
+    power = 1
+    sum = 0
+    while n // power != 0:
+        digit = (n % (power * 10)) // power
+        power *= 10
+        if digit == 8:
+            sum += 1
+    #print("Debug: how many eights =",sum)
+    if sum >= 2:
+        return True
+    else:
+        return False
