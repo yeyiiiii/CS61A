@@ -10,6 +10,8 @@ Online Python Tutor: https://pythontutor.com/composingprograms.html#mode=edit
 2022/5/20  
 3. Lecture3: https://www.youtube.com/watch?v=T_nf9Uxai8w&list=PL6BsET-8jgYXytPK09lJ5y9iUqZ445lCX&ab_channel=JohnDeNero  
 2022/5/26
+4. Lecture4: https://www.youtube.com/watch?v=SsznmbwosLQ&list=PL6BsET-8jgYXeefqDPnwLJ03jyw5-KKTT  
+2022/6/27
 
 ## Lab  
 1. Lab00: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab00/  
