@@ -1,5 +1,6 @@
 # CS61A
 Fall 2020: https://inst.eecs.berkeley.edu/~cs61a/fa20/  
+Fall 2021: https://inst.eecs.berkeley.edu/~cs61a/fa21/ 
 Textbook: http://composingprograms.com/pages/11-getting-started.html  
 Online Python Tutor: https://pythontutor.com/composingprograms.html#mode=edit  
 
@@ -20,6 +21,13 @@ Online Python Tutor: https://pythontutor.com/composingprograms.html#mode=edit
    Debugging: https://inst.eecs.berkeley.edu/~cs61a/fa20/articles/debugging.html  
 2022/6/26
 
-## HW  
+## Homework 
 1. HW01: https://inst.eecs.berkeley.edu/~cs61a/fa20/hw/hw01/  
 2022/5/24  
+
+## Discussion
+1. Disc01: https://inst.eecs.berkeley.edu/~cs61a/fa20/disc/disc01.pdf  
+2022/6/29
+
+## Project
+1. Hog: https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/hog/  
