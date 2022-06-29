@@ -1,6 +1,6 @@
 # CS61A
 Fall 2020: https://inst.eecs.berkeley.edu/~cs61a/fa20/  
-Fall 2021: https://inst.eecs.berkeley.edu/~cs61a/fa21/ 
+Fall 2021: https://inst.eecs.berkeley.edu/~cs61a/fa21/  
 Textbook: http://composingprograms.com/pages/11-getting-started.html  
 Online Python Tutor: https://pythontutor.com/composingprograms.html#mode=edit  
 
